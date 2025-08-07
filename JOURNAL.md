@@ -20,7 +20,7 @@ I made a new version with a microsd card reader and a microsd to usb controller.
 <img width="789" height="611" alt="image" src="https://github.com/user-attachments/assets/e79f3ce9-a9b4-48da-b1ae-b4a77c1054a5" />
 <img width="963" height="674" alt="image" src="https://github.com/user-attachments/assets/a14adee5-3c6e-4c44-9464-581013d0270a" />
 
-**Total time spent: 2h**
+**Total time spent: 3h**
 
 # August 7th: Final Version
 
@@ -30,4 +30,4 @@ I made the final version, featuring a usb-c port to connect to a computer, two u
 <img width="735" height="503" alt="image" src="https://github.com/user-attachments/assets/6698af01-1f69-4527-9612-e0805c8edc9e" />
 <img width="870" height="511" alt="image" src="https://github.com/user-attachments/assets/85272e0d-b27b-4d8c-9364-d22bbf42d1e6" />
 
-**Total time spent: 2h**
+**Total time spent: 5h**
