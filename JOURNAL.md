@@ -31,3 +31,11 @@ I made the final version, featuring a usb-c port to connect to a computer, two u
 <img width="870" height="511" alt="image" src="https://github.com/user-attachments/assets/85272e0d-b27b-4d8c-9364-d22bbf42d1e6" />
 
 **Total time spent: 5h**
+
+# August 8th: Started Converting To KiCad From EasyEDA
+
+I've added the SL2.1A USB Controller and a USBC port in.
+
+<img width="737" height="388" alt="image" src="https://github.com/user-attachments/assets/eef648f3-da38-4201-8567-ffbacafaafec" />
+
+**Total time spent: 6h**
